@@ -1,4 +1,4 @@
-# Blood donation DBMS for COMP204 course 
+# Blood donation DBMS for COMP204 (Database Management Systems) course 
 
 # Project decription 📃
 
