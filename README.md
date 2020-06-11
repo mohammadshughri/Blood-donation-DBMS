@@ -25,3 +25,7 @@ After the user signs up, they can now sign in. If they are a donor or recipient,
 The update button sends the 27 user to the update page when clicked and then the user can update their data in the system. There is also a log-out button present at the top right of the page.
 
 On the other hand, when a blood-bank user signs in, they are taken to the admin page where all the donors and recipients in the system are displayed on a table. The blood-bank user can click on the `profile` button to see their information as well.
+
+# Team members 👨‍💻
+- [Mohammad Shughri](https://github.com/MXS11)
+- [Olamilekan Rasaq AREMU](https://github.com/Areezy)
