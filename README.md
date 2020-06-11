@@ -27,6 +27,7 @@ The update button sends the 27 user to the update page when clicked and then the
 On the other hand, when a blood-bank user signs in, they are taken to the admin page where all the donors and recipients in the system are displayed on a table. The blood-bank user can click on the `profile` button to see their information as well.
 
 # Team members 👨‍💻
+- [Ahmed Alqershi](https://github.com/Ahmed-Alqershi)
 - [Mohammad Shughri](https://github.com/MXS11)
 - [Olamilekan Rasaq AREMU](https://github.com/Areezy)
 # Project report 📑
