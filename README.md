@@ -29,3 +29,12 @@ On the other hand, when a blood-bank user signs in, they are taken to the admin 
 # Team members 👨‍💻
 - [Mohammad Shughri](https://github.com/MXS11)
 - [Olamilekan Rasaq AREMU](https://github.com/Areezy)
+
+# Screenshots 📸
+
+![](screenshot/1.jpg)
+![](screenshot/2.jpg)
+![](screenshot/3.jpg)
+![](screenshot/4.jpg)
+![](screenshot/5.jpg)
+![](screenshot/6.jpg)
