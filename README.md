@@ -29,7 +29,7 @@ On the other hand, when a blood-bank user signs in, they are taken to the admin 
 # Team members 👨‍💻
 - [Mohammad Shughri](https://github.com/MXS11)
 - [Olamilekan Rasaq AREMU](https://github.com/Areezy)
-# Project report
+# Project report 📑
 - [Final report](https://drive.google.com/file/d/12fcKsY-g5QpwEGohX-1LEY_gvkocbpoz/view?usp=sharing)
 # Screenshots 📸
 
