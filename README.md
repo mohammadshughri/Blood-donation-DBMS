@@ -30,8 +30,10 @@ On the other hand, when a blood-bank user signs in, they are taken to the admin 
 - [Ahmed Alqershi](https://github.com/Ahmed-Alqershi)
 - [Mohammad Shughri](https://github.com/MXS11)
 - [Olamilekan Rasaq AREMU](https://github.com/Areezy)
-# Project report 📑
+# Project report 📝
 - [Final report](https://drive.google.com/file/d/12fcKsY-g5QpwEGohX-1LEY_gvkocbpoz/view?usp=sharing)
+# Project grade 🏁
+- 100/100.
 # Screenshots 📸
 
 ![](screenshot/1.jpg)
