@@ -1,7 +1,7 @@
 # Blood donation DBMS for COMP204
 
 # Project decription 📃
-The objective of this project is to create an optimized and efficient database for blood donations with a modern designed software).
+The objective of this project is to create an optimized and efficient database for blood donations with a modern designed software.
 # Dependencies
 - [rs2xml](https://sourceforge.net/projects/finalangelsanddemons/)
 - [MySQL connection Driver](https://dev.mysql.com/downloads/connector/j/)
