@@ -8,7 +8,7 @@ The objective of this project is to create an optimized and efficient database f
 # Team members 👨‍💻
 - [Ahmed Alqershi](https://github.com/Ahmed-Alqershi)
 - [Mohammad Shughri](https://github.com/MXS11)
-- [Olamilekan Rasaq AREMU](https://github.com/Areezy)
+- [Olamilekan Rasaq Aremu](https://github.com/Areezy)
 # Project report 📝
 - You can find all the detailed information regarding this project [here.](https://drive.google.com/file/d/12fcKsY-g5QpwEGohX-1LEY_gvkocbpoz/view?usp=sharing)
 # Project grade 🏁
